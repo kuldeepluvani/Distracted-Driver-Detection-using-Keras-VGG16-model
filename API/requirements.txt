@@ -8,4 +8,4 @@ Flask==0.12.1
 Flask-RESTful==0.3.5
 urllib3==1.13.1
 h5py==2.7.0
-tensorflow-gpu==1.2.0
+tensorflow-gpu==1.15.4
